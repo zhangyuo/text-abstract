@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ansj_seg-5.0.2-all-in-one">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ansj_seg-5.0.2-all-in-one.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lpsolve55j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-nop-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stanford-ner.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

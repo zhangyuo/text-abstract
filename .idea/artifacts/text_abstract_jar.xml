@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="text-abstract:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/text_abstract_jar</output-path>
+    <root id="archive" name="text-abstract.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="text-abstract" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/ansj_seg-5.0.2-all-in-one.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/lpsolve55j.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/slf4j-nop-1.7.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/stanford-ner.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
